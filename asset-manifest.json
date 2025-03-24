@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goiteens-recipies-js/static/css/main.4c9bd4ee.css",
+    "main.js": "/goiteens-recipies-js/static/js/main.0cc3274c.js",
+    "index.html": "/goiteens-recipies-js/index.html",
+    "main.4c9bd4ee.css.map": "/goiteens-recipies-js/static/css/main.4c9bd4ee.css.map",
+    "main.0cc3274c.js.map": "/goiteens-recipies-js/static/js/main.0cc3274c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c9bd4ee.css",
+    "static/js/main.0cc3274c.js"
+  ]
+}
